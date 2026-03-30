@@ -1,3 +1,3 @@
-/Users/sun/Documents/tasks/bin/CMakeFiles/tasks.dir
-/Users/sun/Documents/tasks/bin/CMakeFiles/edit_cache.dir
-/Users/sun/Documents/tasks/bin/CMakeFiles/rebuild_cache.dir
+/Users/sun/Documents/Projects/tasks/bin/CMakeFiles/tasks.dir
+/Users/sun/Documents/Projects/tasks/bin/CMakeFiles/edit_cache.dir
+/Users/sun/Documents/Projects/tasks/bin/CMakeFiles/rebuild_cache.dir

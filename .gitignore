@@ -67,3 +67,9 @@ vendor/bundle/
 coverage/
 .tmp/
 .cache/
+
+# Cmakeake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile    

@@ -50,8 +50,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/sun/Documents/tasks/bin",
-		"source" : "/Users/sun/Documents/tasks"
+		"build" : "/Users/sun/Documents/Projects/tasks/bin",
+		"source" : "/Users/sun/Documents/Projects/tasks"
 	},
 	"version" : 
 	{

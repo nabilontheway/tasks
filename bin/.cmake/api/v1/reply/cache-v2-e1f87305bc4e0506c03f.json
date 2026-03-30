@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sun/Documents/tasks/bin"
+			"value" : "/Users/sun/Documents/Projects/tasks/bin"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -411,7 +411,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sun/Documents/tasks/bin/CMakeFiles/pkgRedirects"
+			"value" : "/Users/sun/Documents/Projects/tasks/bin/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -471,7 +471,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sun/Documents/tasks"
+			"value" : "/Users/sun/Documents/Projects/tasks"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -499,7 +499,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/Users/sun/Documents/tasks/out/install/rtool"
+			"value" : "/Users/sun/Documents/Projects/tasks/out/install/rtool"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sun/Documents/tasks/bin"
+			"value" : "/Users/sun/Documents/Projects/tasks/bin"
 		},
 		{
 			"name" : "tasks_IS_TOP_LEVEL",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sun/Documents/tasks"
+			"value" : "/Users/sun/Documents/Projects/tasks"
 		}
 	],
 	"kind" : "cache",

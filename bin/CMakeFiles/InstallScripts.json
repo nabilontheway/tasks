@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/sun/Documents/tasks/bin/cmake_install.cmake"
+		"/Users/sun/Documents/Projects/tasks/bin/cmake_install.cmake"
 	],
 	"Parallel" : false
 }
