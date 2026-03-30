@@ -22,18 +22,6 @@
             "displayName": "Build",
             "configurePreset": "rtool"
         }
-    ],
-    "workflowPresets": [
-        {
-            "name": "workflow",
-            "description": "",
-            "displayName": "Workflow",
-            "steps": [
-                {
-                    "type": "configure",
-                    "name": "rtool"
-                }
-            ]
-        }
     ]
+    
 }
