@@ -17,7 +17,7 @@ void load_tasks_from_file(const char* filename);
 int main(){
     char title[MAX_TITLE_LENGTH];
     int choice, id;
-    load_tasks_from_file("tasks.txt");
+    load_tasks_from_file("lib/tasks.txt");
 
     while (1) {
         printf("\n--- Task Manager ---\n");
